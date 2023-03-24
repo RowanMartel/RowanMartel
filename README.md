@@ -19,7 +19,7 @@ https://github.com/RowanMartel/Tilt-A-Ball.git
 
 Exploding Snowman<br>
 ![](https://cdn.discordapp.com/attachments/1084588666095157392/1084602226267398305/image.png)<br>
-Gamejam game about ramming into things at high speed. Made in Uniy and C#.<br>
+Gamejam game about ramming into things at high speed. Made in Unity and C#.<br>
 https://github.com/RowanMartel/Exploding-Snowman.git
 
 Bomber Run<br>
