@@ -25,4 +25,5 @@ https://github.com/RowanMartel/Exploding-Snowman.git
 Bomber Run<br>
 ![](https://cdn.discordapp.com/attachments/1084588666095157392/1088801142298906644/image.png)<br>
 Arcade style shmup. Made in TypeScript with EaselJs. I messed up my highscore getting this screenshot.<br>
-https://github.com/RowanMartel/BomberRun.git
+https://github.com/RowanMartel/BomberRun.git<br>
+![Release](https://rowanmartel.github.io/BomberRun/release/)<br>
