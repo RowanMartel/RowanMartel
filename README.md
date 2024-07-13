@@ -1,29 +1,6 @@
-__Current projects:__
-
-FPS Tech Demo<br>
-![](https://cdn.discordapp.com/attachments/1084588666095157392/1084588714824581250/fps.png)<br>
-First person sandbox shooter. Made in Unity and C#.<br>
-https://github.com/RowanMartel/FPS-Tech-Demo.git
-
-ASCII RPG
-![](https://cdn.discordapp.com/attachments/1084588666095157392/1088802650142806016/image.png)<br>
-Zelda 1-esque game made in C# .net framework.<br>
-https://github.com/RowanMartel/Text-Based-RPG.git
-
-__Finished projects:__
-
-Tilt-a-Ball<br>
-![](https://cdn.discordapp.com/attachments/1084588666095157392/1084599274169442415/image.png)<br>
-Roll-a-Ball, but you control the platform instead of the ball. Made in Unity and C#.<br>
-https://github.com/RowanMartel/Tilt-A-Ball.git
-
-Exploding Snowman<br>
-![](https://cdn.discordapp.com/attachments/1084588666095157392/1084602226267398305/image.png)<br>
-Gamejam game about ramming into things at high speed. Made in Unity and C#.<br>
-https://github.com/RowanMartel/Exploding-Snowman.git
-
-Bomber Run<br>
-![](https://cdn.discordapp.com/attachments/1084588666095157392/1088801142298906644/image.png)<br>
-Arcade style shmup. Made in TypeScript with EaselJs. I messed up my highscore getting this screenshot.<br>
-https://github.com/RowanMartel/BomberRun.git<br>
-Release: https://rowanmartel.github.io/BomberRun/release/
+Check out my website for info on me and my projects: https://sites.google.com/view/rowanmartel
+<br>
+![](https://lh4.googleusercontent.com/loU6cJszbTVsxLu0Xux_jerN1T1oOmPHYE0Pj9MLlsbgmL2Mko3mL2bZvCRiGsz0jZEzUkplE-iXes4pjrZwtM-Jme4NWVNass97JzlNr3xsV_5ZCYwfyuIwxC87Zo30Gg=w1280)
+![](https://lh4.googleusercontent.com/MN2B--kj3okglriRaWqORZ9tv2h8FrRvhIb8T5vI0_52WJgrT3T9P-IVvySK51hfPcF5CD-sl3k1cFRh0P9SPDvmIf9Sn95mqz8cWtW1D7AOqvD6McEP78lzW4WDt93Uwg=w1280)<br>
+![](https://lh3.googleusercontent.com/Z2K4y6DjYIT8dgk9nL5ZDnlcq89oVw_tNUrVDtHoB04QF4uF2uUYWhrBcnbl06cWJeqBRhihjRrJVnG3JQ2O6wwNlp1YD9pRtE2CF8yCaJ6MUj9MsKeaKuFr5uNUcqo2AA=w1280)
+![](https://lh6.googleusercontent.com/ZsEZqzr4RqTTFr4vvTc0ORdqPM02z5hiRF4N2Xu3WdtpsrU1TusSlR_4I46EvRroBd70SPWolWshRYl4QeHUz799bLHPt-KVV6I1wNW13pIrWDSyMyZT4jpTrMV3jzVaxA=w1280)<br>
